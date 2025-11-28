@@ -1,0 +1,465 @@
+# benefits.yml - Benefit domains for natural product summaries
+# Each domain defines: triggers (keywords), clusters (ingredient groups), and templates (phrasing)
+
+eye_health:
+  triggers:
+    - eye
+    - vision
+    - ocular
+    - retina
+    - macula
+    - macular
+    - sight
+    - visual
+    - blue light
+    - lutein
+    - zeaxanthin
+  clusters:
+    carotenoids:
+      - lutein
+      - zeaxanthin
+      - meso-zeaxanthin
+      - astaxanthin
+    antioxidants:
+      - vitamin C
+      - vitamin E
+      - selenium
+      - glutathione
+      - n-acetylcysteine
+      - nac
+    energy_cofactors:
+      - riboflavin
+      - riboflavin-5-phosphate
+      - vitamin B2
+      - benfotiamine
+      - vitamin B1
+      - coq10
+      - ubiquinol
+  templates:
+    - "Formulated to support visual performance and protect the retina from oxidative stress and blue-light exposure."
+    - "Designed to strengthen macular pigment density and support healthy vision throughout aging."
+    - "Combines protective carotenoids with antioxidants and cellular energy cofactors for comprehensive eye health."
+
+cardiovascular:
+  triggers:
+    - heart
+    - cardiovascular
+    - cardiac
+    - blood pressure
+    - hypertension
+    - cholesterol
+    - circulation
+    - vascular
+    - endothelial
+    - arterial
+  clusters:
+    heart_support:
+      - coq10
+      - ubiquinol
+      - magnesium
+      - magnesium glycinate
+      - taurine
+      - hawthorn
+      - carnitine
+    lipid_balance:
+      - niacin
+      - vitamin B3
+      - bergamot
+      - plant sterols
+      - red yeast rice
+    circulation:
+      - ginkgo
+      - ginkgo biloba
+      - vitamin K2
+      - mk-7
+      - nattokinase
+  templates:
+    - "Formulated to support healthy cardiovascular function and maintain optimal blood pressure."
+    - "Designed to promote healthy cholesterol levels and support arterial health."
+    - "Combines heart-protective nutrients with circulation support for comprehensive cardiovascular wellness."
+
+blood_sugar:
+  triggers:
+    - blood sugar
+    - glucose
+    - insulin
+    - diabetes
+    - diabetic
+    - glycemic
+    - hypoglycemia
+    - hyperglycemia
+    - metabolic
+    - hemoglobin a1c
+  clusters:
+    glucose_regulators:
+      - chromium
+      - berberine
+      - alpha-lipoic acid
+      - cinnamon
+      - gymnema
+      - bitter melon
+    insulin_support:
+      - vanadium
+      - biotin
+      - vitamin B7
+      - magnesium
+      - zinc
+    metabolic_cofactors:
+      - vitamin B1
+      - benfotiamine
+      - thiamine
+      - coq10
+      - r-lipoic acid
+  templates:
+    - "Formulated to support healthy blood sugar balance and insulin sensitivity."
+    - "Designed to promote glucose metabolism and support pancreatic function."
+    - "Combines blood sugar regulators with metabolic cofactors for comprehensive glycemic control."
+
+bone_joint:
+  triggers:
+    - bone
+    - joint
+    - arthritis
+    - osteoporosis
+    - cartilage
+    - skeletal
+    - calcium
+    - fracture
+    - collagen
+  clusters:
+    bone_builders:
+      - calcium
+      - vitamin D3
+      - vitamin K2
+      - mk-7
+      - boron
+      - magnesium
+    joint_support:
+      - glucosamine
+      - chondroitin
+      - msm
+      - hyaluronic acid
+      - collagen
+    inflammation_modulators:
+      - curcumin
+      - turmeric
+      - boswellia
+      - ginger
+  templates:
+    - "Formulated to support bone density and maintain healthy joint function."
+    - "Designed to promote skeletal strength and joint mobility throughout aging."
+    - "Combines bone-building minerals with joint-protective compounds for comprehensive musculoskeletal support."
+
+cognitive:
+  triggers:
+    - cognition
+    - cognitive
+    - memory
+    - brain
+    - mental
+    - focus
+    - concentration
+    - dementia
+    - alzheimer
+    - neuroprotective
+  clusters:
+    brain_support:
+      - ginkgo
+      - ginkgo biloba
+      - phosphatidylserine
+      - bacopa
+      - huperzine
+    neurotransmitter:
+      - acetyl-l-carnitine
+      - l-carnitine
+      - vitamin B12
+      - methylcobalamin
+      - vitamin B6
+      - pyridoxal-5-phosphate
+      - gaba
+    antioxidants:
+      - vitamin E
+      - curcumin
+      - resveratrol
+      - coq10
+  templates:
+    - "Formulated to support cognitive function and protect brain health during aging."
+    - "Designed to enhance mental clarity, memory, and neurological wellness."
+    - "Combines neuroprotective nutrients with neurotransmitter support for comprehensive cognitive health."
+
+immune:
+  triggers:
+    - immune
+    - immunity
+    - infection
+    - viral
+    - bacterial
+    - cold
+    - flu
+    - white blood cell
+    - lymphocyte
+    - thymus
+  clusters:
+    immune_activators:
+      - vitamin C
+      - vitamin D3
+      - zinc
+      - selenium
+      - elderberry
+      - echinacea
+    cellular_defense:
+      - vitamin A
+      - beta-carotene
+      - quercetin
+      - n-acetylcysteine
+      - nac
+      - glutathione
+    immune_modulators:
+      - medicinal mushrooms
+      - beta-glucan
+      - astragalus
+      - andrographis
+  templates:
+    - "Formulated to strengthen immune defense and support the body's natural resistance to infection."
+    - "Designed to enhance immune cell activity and promote balanced immune response."
+    - "Combines immune-activating nutrients with cellular defense compounds for comprehensive immune support."
+
+digestive:
+  triggers:
+    - digest
+    - digestion
+    - digestive
+    - gut
+    - stomach
+    - intestinal
+    - gastric
+    - dyspepsia
+    - bloat
+    - ibs
+  clusters:
+    digestive_enzymes:
+      - betaine hcl
+      - pepsin
+      - pancreatin
+      - protease
+      - amylase
+      - lipase
+    gut_support:
+      - probiotics
+      - prebiotics
+      - l-glutamine
+      - zinc carnosine
+      - licorice
+      - dgl
+    carminatives:
+      - ginger
+      - peppermint
+      - fennel
+      - artichoke
+      - gentian
+  templates:
+    - "Formulated to support healthy digestion and optimize nutrient absorption."
+    - "Designed to promote digestive comfort and maintain gut barrier integrity."
+    - "Combines digestive enzymes with gut-protective compounds for comprehensive digestive wellness."
+
+stress_adaptation:
+  triggers:
+    - stress
+    - adrenal
+    - cortisol
+    - anxiety
+    - nervous
+    - tension
+    - adaptation
+    - adaptogen
+    - hyperadrenia
+    - hypoadrenia
+  clusters:
+    adaptogens:
+      - ashwagandha
+      - rhodiola
+      - holy basil
+      - eleuthero
+      - schisandra
+      - ginseng
+    adrenal_support:
+      - vitamin C
+      - pantothenic acid
+      - vitamin B5
+      - vitamin B6
+      - licorice
+    calming:
+      - magnesium
+      - l-theanine
+      - gaba
+      - phosphatidylserine
+  templates:
+    - "Formulated to support healthy stress response and promote adrenal resilience."
+    - "Designed to enhance the body's adaptation to physical and mental demands."
+    - "Combines adaptogenic herbs with adrenal cofactors for comprehensive stress management."
+
+sleep:
+  triggers:
+    - sleep
+    - insomnia
+    - rest
+    - melatonin
+    - circadian
+    - drowsiness
+    - sedative
+  clusters:
+    sleep_promoters:
+      - melatonin
+      - valerian
+      - passionflower
+      - hops
+      - skullcap
+    calming_minerals:
+      - magnesium
+      - magnesium glycinate
+      - calcium
+      - zinc
+    neurotransmitter_support:
+      - gaba
+      - l-theanine
+      - 5-htp
+      - tryptophan
+  templates:
+    - "Formulated to promote restful sleep and support healthy sleep-wake cycles."
+    - "Designed to help you fall asleep naturally and maintain sleep quality throughout the night."
+    - "Combines sleep-promoting herbs with calming minerals for comprehensive sleep support."
+
+liver_detox:
+  triggers:
+    - liver
+    - hepatic
+    - detox
+    - detoxification
+    - phase i
+    - phase ii
+    - glutathione
+    - hepatotoxicity
+  clusters:
+    liver_protectants:
+      - milk thistle
+      - silymarin
+      - n-acetylcysteine
+      - nac
+      - glutathione
+      - alpha-lipoic acid
+    detox_cofactors:
+      - vitamin B6
+      - vitamin B12
+      - folate
+      - methylfolate
+      - selenium
+    liver_support:
+      - artichoke
+      - dandelion
+      - turmeric
+      - curcumin
+  templates:
+    - "Formulated to support healthy liver function and enhance the body's natural detoxification processes."
+    - "Designed to protect liver cells and promote optimal hepatic metabolism."
+    - "Combines liver-protective compounds with detoxification cofactors for comprehensive hepatic support."
+
+thyroid:
+  triggers:
+    - thyroid
+    - hypothyroid
+    - hyperthyroid
+    - t3
+    - t4
+    - tsh
+    - iodine
+    - goiter
+    - thyroid hormone
+  clusters:
+    thyroid_support:
+      - iodine
+      - selenium
+      - zinc
+      - l-tyrosine
+      - tyrosine
+    conversion_cofactors:
+      - selenium
+      - zinc
+      - vitamin A
+      - vitamin D3
+    thyroid_modulators:
+      - ashwagandha
+      - guggul
+      - bladderwrack
+  templates:
+    - "Formulated to support healthy thyroid hormone production and metabolism."
+    - "Designed to optimize thyroid function and promote healthy T4 to T3 conversion."
+    - "Combines thyroid cofactors with supportive nutrients for comprehensive thyroid health."
+
+hormonal_male:
+  triggers:
+    - testosterone
+    - erectile
+    - libido
+    - prostate
+    - male
+    - sperm
+    - fertility
+    - hypogonadism
+    - sexual performance
+  clusters:
+    testosterone_support:
+      - zinc
+      - magnesium
+      - vitamin D3
+      - boron
+      - fenugreek
+      - tribulus
+      - tongkat ali
+      - eurycoma
+    reproductive_health:
+      - maca
+      - korean ginseng
+      - epimedium
+      - horny goat weed
+      - l-carnitine
+    prostate_support:
+      - saw palmetto
+      - beta-sitosterol
+      - pygeum
+      - zinc
+  templates:
+    - "Formulated to support healthy testosterone levels and male reproductive function."
+    - "Designed to promote vitality, libido, and overall male hormonal balance."
+    - "Combines testosterone-supporting nutrients with reproductive health compounds for comprehensive men's wellness."
+
+inflammation:
+  triggers:
+    - inflammation
+    - inflammatory
+    - anti-inflammatory
+    - cytokine
+    - prostaglandin
+    - cox-2
+    - nf-kappa
+  clusters:
+    anti_inflammatory:
+      - curcumin
+      - turmeric
+      - boswellia
+      - ginger
+      - quercetin
+      - resveratrol
+    omega_fatty_acids:
+      - fish oil
+      - omega-3
+      - epa
+      - dha
+    inflammation_modulators:
+      - vitamin D3
+      - vitamin C
+      - alpha-lipoic acid
+      - bromelain
+  templates:
+    - "Formulated to support healthy inflammatory response and promote tissue comfort."
+    - "Designed to modulate inflammatory pathways and maintain balanced immune signaling."
+    - "Combines anti-inflammatory botanicals with omega fatty acids for comprehensive inflammation management."

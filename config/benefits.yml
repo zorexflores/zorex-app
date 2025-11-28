@@ -1,0 +1,79 @@
+# Health Benefit Domains for Zorex Products
+
+immune_support:
+  keywords: [immune, immunity, defense, infection, resistance, cold, flu, viral, bacterial]
+  templates:
+    - "Formulated to strengthen immune defense and support the body's natural resistance to infection."
+    - "Designed to support immune function and help maintain healthy immune response."
+
+cardiovascular:
+  keywords: [heart, cardiovascular, blood pressure, circulation, arterial, vascular, cholesterol]
+  templates:
+    - "Formulated to support cardiovascular health and promote healthy circulation."
+    - "Designed to support heart function and maintain healthy blood pressure levels."
+
+digestive:
+  keywords: [digestive, digestion, gut, intestinal, stomach, bowel, absorption, probiotic]
+  templates:
+    - "Formulated to support healthy digestion and optimize nutrient absorption."
+    - "Designed to promote digestive comfort and maintain gut health."
+
+cognitive:
+  keywords: [brain, cognitive, memory, focus, mental, clarity, concentration, neurological]
+  templates:
+    - "Formulated to support cognitive function and mental clarity."
+    - "Designed to enhance focus and support healthy brain function."
+
+joint_mobility:
+  keywords: [joint, mobility, flexibility, arthritis, cartilage, inflammation, pain]
+  templates:
+    - "Formulated to support joint health and maintain comfortable mobility."
+    - "Designed to promote joint flexibility and reduce occasional discomfort."
+
+energy_metabolism:
+  keywords: [energy, metabolism, fatigue, stamina, endurance, mitochondrial, ATP]
+  templates:
+    - "Formulated to support healthy energy production and combat occasional fatigue."
+    - "Designed to enhance cellular energy metabolism and promote vitality."
+
+hormonal_balance:
+  keywords: [hormone, hormonal, endocrine, thyroid, adrenal, testosterone, estrogen, progesterone]
+  templates:
+    - "Formulated to support healthy hormonal balance and endocrine function."
+    - "Designed to promote hormonal equilibrium and glandular health."
+
+detoxification:
+  keywords: [detox, detoxification, liver, cleanse, elimination, toxin, heavy metal]
+  templates:
+    - "Formulated to support natural detoxification pathways and liver function."
+    - "Designed to promote healthy elimination and cellular cleansing."
+
+bone_health:
+  keywords: [bone, skeletal, calcium, osteo, density, fracture]
+  templates:
+    - "Formulated to support bone density and maintain skeletal strength."
+    - "Designed to promote healthy bone metabolism and structural integrity."
+
+eye_health:
+  keywords: [eye, vision, visual, ocular, retina, macular, sight, AMD, ARMD]
+  templates:
+    - "Formulated to support visual performance and protect the retina from oxidative stress and blue-light exposure."
+    - "Designed to maintain healthy vision and support macular health."
+
+blood_sugar:
+  keywords: [glucose, blood sugar, glycemic, insulin, diabetes, metabolic]
+  templates:
+    - "Formulated to support healthy blood sugar balance and insulin sensitivity."
+    - "Designed to promote metabolic health and glucose regulation."
+
+stress_mood:
+  keywords: [stress, anxiety, mood, calm, relaxation, nervous, adaptogen]
+  templates:
+    - "Formulated to support healthy stress response and promote emotional balance."
+    - "Designed to help manage occasional stress and support mood stability."
+
+skin_health:
+  keywords: [skin, dermal, complexion, collagen, elastin, aging, wrinkle]
+  templates:
+    - "Formulated to support healthy skin and promote youthful appearance."
+    - "Designed to maintain skin integrity and support collagen production."

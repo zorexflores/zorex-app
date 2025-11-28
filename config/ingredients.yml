@@ -1,0 +1,135 @@
+# Ingredient Lexicon for Zorex Products
+
+ingredients:
+  vitamins:
+    items:
+      - Vitamin A
+      - Vitamin B1
+      - Vitamin B2
+      - Vitamin B3
+      - Vitamin B5
+      - Vitamin B6
+      - Vitamin B12
+      - Vitamin C
+      - Vitamin D
+      - Vitamin D3
+      - Vitamin E
+      - Vitamin K
+      - Biotin
+      - Folate
+      - Folic Acid
+      - Thiamine
+      - Riboflavin
+      - Niacin
+      - Pantothenic Acid
+      - Pyridoxine
+      - P-5-P
+      - Cobalamin
+      - Methylcobalamin
+      - Ascorbic Acid
+      - Tocopherol
+      - Mixed Tocopherols
+      - Benfotiamine
+      - Carotenoids
+      - Beta Carotene
+      - Retinol
+      - Palmitate
+  
+  minerals:
+    items:
+      - Calcium
+      - Magnesium
+      - Zinc
+      - Iron
+      - Selenium
+      - Copper
+      - Manganese
+      - Chromium
+      - Molybdenum
+      - Potassium
+      - Iodine
+      - Boron
+      - Vanadium
+      - Calcium Citrate
+      - Calcium Orotate
+      - Magnesium Glycinate
+      - Zinc Citrate
+      - Zinc Gluconate
+      - Zinc Orotate
+      - Selenomethionine
+      - Ferric Citrate
+      - Copper Gluconate
+  
+  amino_acids:
+    items:
+      - L-Carnitine
+      - Acetyl-L-Carnitine
+      - L-Glutamine
+      - L-Lysine
+      - L-Arginine
+      - L-Taurine
+      - L-Glycine
+      - NAC
+      - N-Acetyl-Cysteine
+      - L-Theanine
+      - L-Tyrosine
+      - GABA
+      - 5-HTP
+  
+  botanicals:
+    items:
+      - Bilberry
+      - Lutein
+      - Zeaxanthin
+      - Mesozeaxanthin
+      - Astaxanthin
+      - Echinacea
+      - Elderberry
+      - Ginger
+      - Turmeric
+      - Curcumin
+      - Garlic
+      - Oregano
+      - Black Cohosh
+      - Burdock Root
+      - Quercetin
+      - Resveratrol
+      - Green Tea Extract
+      - Grape Seed Extract
+      - Milk Thistle
+      - Artichoke Extract
+      - Ashwagandha
+      - Rhodiola
+      - Ginseng
+      - Ginkgo Biloba
+      - Hawthorn
+      - Horse Chestnut
+  
+  specialized:
+    items:
+      - CoQ10
+      - Ubiquinol
+      - Alpha Lipoic Acid
+      - Glucosamine
+      - Chondroitin
+      - MSM
+      - Hyaluronic Acid
+      - Collagen
+      - NADH
+      - Pregnenolone
+      - DHEA
+      - Melatonin
+      - Probiotics
+      - Digestive Enzymes
+      - Pancreatin
+      - Bromelain
+      - Papain
+      - Betaine HCl
+      - Peppermint Oil
+      - Omega-3
+      - Fish Oil
+      - DHA
+      - EPA
+      - Phosphatidylcholine
+      - Phosphatidylserine
+      - Lecithin

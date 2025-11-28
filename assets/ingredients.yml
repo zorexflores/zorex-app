@@ -1,0 +1,494 @@
+# ingredients.yml - Ingredient lexicon with aliases
+# Format: canonical_name: [list, of, aliases]
+
+# Vitamins
+vitamin A:
+  - retinol
+  - retinyl palmitate
+  - beta-carotene
+  - beta carotene
+
+vitamin B1:
+  - thiamine
+  - thiamin
+  - benfotiamine
+  - thiamine hcl
+  - thiamine hydrochloride
+
+vitamin B2:
+  - riboflavin
+  - riboflavin-5-phosphate
+  - riboflavin 5 phosphate
+  - r5p
+  - activated b2
+
+vitamin B3:
+  - niacin
+  - nicotinic acid
+  - niacinamide
+  - nicotinamide
+
+vitamin B5:
+  - pantothenic acid
+  - calcium pantothenate
+  - pantethine
+
+vitamin B6:
+  - pyridoxine
+  - pyridoxal-5-phosphate
+  - pyridoxal 5 phosphate
+  - p5p
+  - p-5-p
+  - activated b6
+
+vitamin B7:
+  - biotin
+  - d-biotin
+
+vitamin B9:
+  - folate
+  - folic acid
+  - 5-methyltetrahydrofolate
+  - 5-mthf
+  - methylfolate
+  - l-methylfolate
+  - metafolin
+
+vitamin B12:
+  - cobalamin
+  - methylcobalamin
+  - adenosylcobalamin
+  - hydroxocobalamin
+  - cyanocobalamin
+
+vitamin C:
+  - ascorbic acid
+  - ascorbate
+  - sodium ascorbate
+  - calcium ascorbate
+  - ester c
+
+vitamin D:
+  - vitamin d3
+  - cholecalciferol
+  - vitamin d2
+  - ergocalciferol
+
+vitamin E:
+  - tocopherol
+  - tocopherols
+  - d-alpha tocopherol
+  - mixed tocopherols
+  - tocotrienols
+
+vitamin K:
+  - vitamin k2
+  - mk-7
+  - mk-4
+  - menaquinone
+  - menaquinone-7
+  - menaquinone-4
+  - phylloquinone
+  - vitamin k1
+
+# Minerals
+calcium:
+  - calcium citrate
+  - calcium carbonate
+  - calcium glycinate
+  - dicalcium phosphate
+
+magnesium:
+  - magnesium glycinate
+  - magnesium citrate
+  - magnesium malate
+  - magnesium oxide
+  - magnesium threonate
+  - magnesium taurate
+
+zinc:
+  - zinc citrate
+  - zinc picolinate
+  - zinc gluconate
+  - zinc orotate
+  - zinc carnosine
+
+selenium:
+  - selenomethionine
+  - selenium yeast
+  - sodium selenite
+
+iron:
+  - ferrous sulfate
+  - ferrous fumarate
+  - iron bisglycinate
+  - ferrous gluconate
+
+copper:
+  - copper gluconate
+  - copper citrate
+  - copper bisglycinate
+
+manganese:
+  - manganese citrate
+  - manganese gluconate
+  - manganese glycinate
+
+chromium:
+  - chromium picolinate
+  - chromium polynicotinate
+  - chromium gtf
+
+molybdenum:
+  - molybdenum citrate
+  - molybdenum glycinate
+  - sodium molybdate
+
+boron:
+  - boron citrate
+  - boron glycinate
+  - sodium borate
+
+iodine:
+  - potassium iodide
+  - sodium iodide
+  - iodine from kelp
+
+# Carotenoids
+lutein:
+  - lutemax
+  - lutein esters
+
+zeaxanthin:
+  - meso-zeaxanthin
+  - zeaxanthin isomers
+
+astaxanthin:
+  - haematococcus pluvialis
+
+# Amino Acids & Derivatives
+l-carnitine:
+  - acetyl-l-carnitine
+  - alcar
+  - carnitine
+
+l-theanine:
+  - theanine
+  - suntheanine
+
+gaba:
+  - gamma-aminobutyric acid
+  - gamma aminobutyric acid
+
+l-tyrosine:
+  - tyrosine
+  - n-acetyl-tyrosine
+
+5-htp:
+  - 5-hydroxytryptophan
+  - 5 htp
+
+l-tryptophan:
+  - tryptophan
+
+glutathione:
+  - l-glutathione
+  - reduced glutathione
+  - gsh
+
+n-acetylcysteine:
+  - nac
+  - n acetylcysteine
+  - n-acetyl-l-cysteine
+
+l-glutamine:
+  - glutamine
+
+taurine:
+  - l-taurine
+
+# Botanical Extracts
+ashwagandha:
+  - withania somnifera
+  - ksm-66
+  - sensoril
+
+rhodiola:
+  - rhodiola rosea
+  - golden root
+  - arctic root
+
+bacopa:
+  - bacopa monnieri
+  - brahmi
+
+ginkgo:
+  - ginkgo biloba
+  - ginkgo leaf
+
+milk thistle:
+  - silymarin
+  - silybum marianum
+
+turmeric:
+  - curcumin
+  - curcuma longa
+  - curcuminoids
+
+boswellia:
+  - frankincense
+  - boswellia serrata
+
+ginger:
+  - zingiber officinale
+  - ginger root
+
+quercetin:
+  - quercetin dihydrate
+
+resveratrol:
+  - trans-resveratrol
+  - japanese knotweed
+
+bilberry:
+  - vaccinium myrtillus
+  - bilberry extract
+
+elderberry:
+  - sambucus
+  - sambucus nigra
+
+echinacea:
+  - echinacea purpurea
+  - echinacea angustifolia
+
+valerian:
+  - valerian root
+  - valeriana officinalis
+
+passionflower:
+  - passiflora incarnata
+  - passion flower
+
+hops:
+  - humulus lupulus
+  - hops extract
+
+korean ginseng:
+  - panax ginseng
+  - red ginseng
+  - asian ginseng
+
+eleuthero:
+  - eleutherococcus senticosus
+  - siberian ginseng
+
+holy basil:
+  - tulsi
+  - ocimum sanctum
+
+schisandra:
+  - schisandra chinensis
+  - schizandra
+
+hawthorn:
+  - crataegus
+  - hawthorn berry
+
+saw palmetto:
+  - serenoa repens
+
+pygeum:
+  - pygeum africanum
+  - african plum tree
+
+tribulus:
+  - tribulus terrestris
+  - puncture vine
+
+fenugreek:
+  - trigonella foenum-graecum
+
+maca:
+  - lepidium meyenii
+  - peruvian ginseng
+
+tongkat ali:
+  - eurycoma longifolia
+  - longjack
+
+epimedium:
+  - horny goat weed
+  - icariin
+
+gymnema:
+  - gymnema sylvestre
+  - gurmar
+
+bitter melon:
+  - momordica charantia
+  - bitter gourd
+
+cinnamon:
+  - cinnamomum cassia
+  - ceylon cinnamon
+
+artichoke:
+  - cynara scolymus
+  - artichoke leaf
+
+dandelion:
+  - taraxacum officinale
+  - dandelion root
+
+licorice:
+  - glycyrrhiza glabra
+  - dgl
+  - deglycyrrhizinated licorice
+
+gentian:
+  - gentiana lutea
+  - gentian root
+
+andrographis:
+  - andrographis paniculata
+
+astragalus:
+  - astragalus membranaceus
+
+guggul:
+  - commiphora mukul
+  - guggulsterones
+
+bladderwrack:
+  - fucus vesiculosus
+  - kelp
+
+# Fatty Acids & Oils
+fish oil:
+  - omega-3
+  - omega 3
+  - marine oil
+
+epa:
+  - eicosapentaenoic acid
+
+dha:
+  - docosahexaenoic acid
+
+alpha-lipoic acid:
+  - ala
+  - r-lipoic acid
+  - r-ala
+  - thioctic acid
+
+# Coenzymes & Cofactors
+coq10:
+  - coenzyme q10
+  - ubiquinone
+  - ubiquinol
+
+nadh:
+  - nicotinamide adenine dinucleotide
+
+pqq:
+  - pyrroloquinoline quinone
+
+# Phospholipids
+phosphatidylserine:
+  - ps
+
+phosphatidylcholine:
+  - pc
+  - lecithin
+
+# Enzymes
+bromelain:
+  - pineapple enzyme
+
+papain:
+  - papaya enzyme
+
+nattokinase:
+  - natto extract
+
+# Specialty Compounds
+msm:
+  - methylsulfonylmethane
+  - methyl sulfonyl methane
+
+dim:
+  - diindolylmethane
+  - 3,3'-diindolylmethane
+
+bioperine:
+  - piperine
+  - black pepper extract
+
+chrysin:
+  - 5,7-dihydroxyflavone
+
+beta-sitosterol:
+  - phytosterol
+  - plant sterol
+
+hyaluronic acid:
+  - sodium hyaluronate
+  - hyaluronan
+
+glucosamine:
+  - glucosamine sulfate
+  - glucosamine hcl
+
+chondroitin:
+  - chondroitin sulfate
+
+collagen:
+  - hydrolyzed collagen
+  - collagen peptides
+
+betaine hcl:
+  - betaine hydrochloride
+  - trimethylglycine
+
+# Probiotics & Prebiotics
+probiotics:
+  - lactobacillus
+  - bifidobacterium
+  - beneficial bacteria
+
+prebiotics:
+  - fos
+  - inulin
+  - fructooligosaccharides
+
+beta-glucan:
+  - beta glucan
+  - beta-1,3-glucan
+
+# Mushrooms
+reishi:
+  - ganoderma lucidum
+
+shiitake:
+  - lentinula edodes
+
+maitake:
+  - grifola frondosa
+
+cordyceps:
+  - cordyceps sinensis
+
+lion's mane:
+  - hericium erinaceus
+
+# Other
+melatonin:
+  - n-acetyl-5-methoxytryptamine
+
+berberine:
+  - berberine hcl
+
+huperzine:
+  - huperzine a
+  - huperzia serrata

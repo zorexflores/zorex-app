@@ -1,0 +1,3 @@
+([('Zorex Knowledge Dashboard',
+   '/Users/andrewflores/projects/Zorex App/dist/Zorex Knowledge Dashboard',
+   'EXECUTABLE')],)

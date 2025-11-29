@@ -10,7 +10,7 @@ jobs:
     runs-on: windows-latest
     
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -28,7 +28,7 @@ jobs:
         pyinstaller --onefile --noconsole --name "Zorex Knowledge Dashboard" --add-data "corpus;corpus" --add-data "config;config" --add-data "assets;assets" --add-data "summary_cache.json;." --add-data "manuals_index.json;." app.py
     
     - name: Upload artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: Zorex-Dashboard-Windows
         path: dist/Zorex Knowledge Dashboard.exe

@@ -25,7 +25,7 @@ jobs:
     
     - name: Build Windows executable
       run: |
-        pyinstaller --onefile --noconsole --name "Zorex Knowledge Dashboard" --add-data "corpus;corpus" --add-data "config;config" --add-data "assets;assets" --add-data "summary_cache.json;." --add-data "manuals_index.json;." app.py
+        pyinstaller --onefile --noconsole --name "Zorex Knowledge Dashboard" --add-data "corpus;corpus" --add-data "config;config" --add-data "assets;assets" --add-data "summary_cache.json;." --add-data "manuals_index.json;." --copy-metadata streamlit --collect-all streamlit app.py
     
     - name: Upload artifact
       uses: actions/upload-artifact@v4
